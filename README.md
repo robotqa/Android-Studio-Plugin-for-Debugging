@@ -12,13 +12,6 @@ This plugin is tailored for use with Android Studio and Intellij IDE. Therefore,
 
 **Note: Please ensure that the adb tools are installed on your system before proceeding.**
 
-### Manually install plugin
-
-[Download](https://github.com/robotqa/Android-Studio-Plugin-for-Debugging/releases/tag/releases) the plugin file then start Android Studio. Click: 
-> Settings-->Plugins-->Install Plugin from Disk
-
-Select downloaded plugin file and install plugin.
-
 ### Upload using Android Studio Plugin Page
 
 Start Android Studio and click 
@@ -38,6 +31,12 @@ When you activate this plugin, Device List table will be displayed. After openin
 ![RobotQA Plugin Table Page](https://github.com/robotqa/Android-Studio-Plugin-for-Debugging/blob/main/first-page.png?raw=true)
 
 Follow the opening link. When you register our platform we will send token to use on plugin. 
+
+### Get Token From Profile Page
+
+If you need to find token value, you can find it in "Profile Page". Copy that value and use in plugin setting.
+
+
 
 ### Activate device farm connection
 
