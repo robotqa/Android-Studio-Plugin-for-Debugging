@@ -36,7 +36,9 @@ Follow the opening link. When you register our platform we will send token to us
 
 If you need to find token value, you can find it in "Profile Page". Copy that value and use in plugin setting.
 
+![Go to Profile Page](https://github.com/robotqa/Android-Studio-Plugin-for-Debugging/blob/main/go-profile.png?raw=true)
 
+![Get Token Value](https://github.com/robotqa/Android-Studio-Plugin-for-Debugging/blob/main/token.png?raw=true)
 
 ### Activate device farm connection
 
