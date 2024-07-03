@@ -42,9 +42,18 @@ If you need to find token value, you can find it in "Profile Page". Copy that va
 
 ### Activate device farm connection
 
+#### Classic Ui ####
+
 Upon acquiring a token, input it into the designated textbox within the **RobotQA Token Setting** dialog. To access this dialog, navigate to **Help --> Find Action** and search for it accordingly. Once the token value has been entered, you will gain the capability to establish connections with devices and access the associated screen.
 
 ![RobotQA Plugin Enter Token](https://github.com/robotqa/Android-Studio-Plugin-for-Debugging/blob/main/token-enter.png?raw=true)
+
+#### New Ui ####
+
+It is a tricky a point in New Ui. You have to add **RobotQA Token Settings** dialog to toolbar. To do that, firstly right click on the toolbar and select customize toolbar:
+--image
+
+Click "+" (Add action) button. Then search for "RobotQA" and add it to Right of the toolbar.
 
 ### Connect a device and start debugging
 
